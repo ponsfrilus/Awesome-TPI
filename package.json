@@ -1,0 +1,14 @@
+{
+  "name": "awesome-tpi",
+  "version": "0.0.1",
+  "description": "Curated list of Travail Pratique Individuel (TPI) ressources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Borboën <ponsfrilus@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
