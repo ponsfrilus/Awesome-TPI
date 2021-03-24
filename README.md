@@ -164,9 +164,9 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     Yourself) et respectant le style de programmation des langages utilisés.
 
   * La qualité du code, mesuré en termes de:
-    a. «Once and only once», le code ne comporte pas de parties répétées, 
-    b. utilise le paradigme orienté objet,
-    c. et présence de documentation interne au code.
+     1. «Once and only once», le code ne comporte pas de parties répétées, 
+     1. utilise le paradigme orienté objet,
+     1. et présence de documentation interne au code.
 
 ### Instructions et reproductibilité
 
@@ -199,8 +199,8 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     possibilité de faire une recherche dans la table est présente.
 
   * L'interface utilisateur est soignée et réfléchie:
-    a. respect de la charte graphique («style guide»),
-    b. alignement, consistance, logique et lisibilité;
+     1. respect de la charte graphique («style guide»),
+     1. alignement, consistance, logique et lisibilité;
 
 ### SGBD et MCD, MLD, MPD
 
@@ -255,14 +255,14 @@ Remplir le [Protocole de la 2ème visite 2016-18](http://www.tpivd.ch/index.php/
   1. Rappeler au chef de projet qu’il est présent en pur spectateur et qu'aucun 
      commentaires ou signes ne doivent être donné au candidat
   1. Rappeler le déroulement au candidat:
-    - La présentation doit durer environ 15 minutes (pas d'interruptions de la part des experts)
-    - Suite à la présentation, et le temps de souffler, les questions des experts (15-30 minutes)
-    - Après les questions, le candidat sort de la salle et les experts ainsi que le chef de projet se concertent sur la procédure de qualification
+      - La présentation doit durer environ 15 minutes (pas d'interruptions de la part des experts)
+      - Suite à la présentation, et le temps de souffler, les questions des experts (15-30 minutes)
+      - Après les questions, le candidat sort de la salle et les experts ainsi que le chef de projet se concertent sur la procédure de qualification
   1. Les experts et le chef de projet
-    - Les experts notent l'entretien professionnel et la présentation (partie C)
-    - Les experts valident les notes du chefs de projet (partie A et B)
-    - La note est calculée depuis le document PDF
-    - Le chef de projet imprime le document pour les signatures
+      - Les experts notent l'entretien professionnel et la présentation (partie C)
+      - Les experts valident les notes du chefs de projet (partie A et B)
+      - La note est calculée depuis le document PDF
+      - Le chef de projet imprime le document pour les signatures
 
 
 Bien que les points soient précisément définis dans la grille d'évaluation,
