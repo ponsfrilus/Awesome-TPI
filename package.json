@@ -1,6 +1,6 @@
 {
   "name": "awesome-tpi",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Curated list of Travail Pratique Individuel (TPI) ressources",
   "main": "index.js",
   "scripts": {

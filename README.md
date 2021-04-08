@@ -4,8 +4,8 @@ Ce dépôt regroupe des ressources utiles aux apprentis, chefs de projet et
 experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des
 informaticiens CFC.
 
-C'est un travail collaboratif, n'hésitez pas à lire les [bonnes
-pratiques](CONTRIBUTING.md) pour proposer vos contributions.
+C'est un travail collaboratif, n'hésitez pas à lire la
+[procédure](CONTRIBUTING.md) pour proposer vos contributions.
 
 # Table des matières <!-- {docsify-ignore} -->
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:2 title:0 charForUnorderedList:* -->
@@ -37,6 +37,9 @@ pratiques](CONTRIBUTING.md) pour proposer vos contributions.
   * [Lancement du TPI](#lancement-du-tpi)
   * [Visite intérmédiaire](#visite-intérmédiaire)
   * [Entretien professionnel](#entretien-professionnel)
+    * [Grille d'évaluation](#grille-dévaluation)
+    * [Check-list](#check-list)
+    * [Évaluation](#évaluation)
 * [Préparation au TPI / TPI Blancs](#préparation-au-tpi--tpi-blancs)
   * [Kata-Manga (dev)](#kata-manga-dev)
 * [Exemples de TPI](#exemples-de-tpi)
@@ -236,7 +239,6 @@ Se rendre sur http://www.tpivd.ch/index.php/10-news/9-devenir-expert pour les d�
 
 ## Lancement du TPI
 
-
 Remplir le [Protocole de la 1ère visite](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-expert/protocoles-des-visites/18-documentations-cfc-protocole-des-visites/20-protocole-de-la-1ere-visite).
 
 ## Visite intérmédiaire
@@ -252,18 +254,30 @@ Remplir le [Protocole de la 2ème visite 2016-18](http://www.tpivd.ch/index.php/
 
 ## Entretien professionnel
 
+### Grille d'évaluation
+
+La grille d'évaluation officielle se trouve sur
+[tpivd.ch](http://www.tpivd.ch/files/cfc-ordo2k14/2.%20Feuille%20d%20evaluation.pdf).
+C'est un PDF interactif.
+
+ 🆕 Alternativement, l'application React [Évaluation TPI](https://ponsfrilus.github.io/evaluation-TPI/)
+offre la même grille de manière plus conviviale.
+
+### Check-list
+
   1. Rappeler au chef de projet qu’il est présent en pur spectateur et qu'aucun 
      commentaires ou signes ne doivent être donné au candidat
-  1. Rappeler le déroulement au candidat:
-      - La présentation doit durer environ 15 minutes (pas d'interruptions de la part des experts)
-      - Suite à la présentation, et le temps de souffler, les questions des experts (15-30 minutes)
-      - Après les questions, le candidat sort de la salle et les experts ainsi que le chef de projet se concertent sur la procédure de qualification
+  1. Rappeler le déroulement au candidat :
+    - La présentation doit durer environ 15 minutes (pas d'interruptions de la part des experts)
+    - Suite à la présentation, et le temps de souffler, les questions des experts (15-20 minutes)
+    - Après les questions, le candidat sort de la salle et les experts ainsi que le chef de projet se concertent sur la procédure de qualification
   1. Les experts et le chef de projet
-      - Les experts notent l'entretien professionnel et la présentation (partie C)
-      - Les experts valident les notes du chefs de projet (partie A et B)
-      - La note est calculée depuis le document PDF
-      - Le chef de projet imprime le document pour les signatures
+    - Les experts notent l'entretien professionnel et la présentation (partie C)
+    - Les experts valident les notes du chefs de projet (partie A et B)
+    - La note est calculée depuis le document PDF
+    - Le chef de projet imprime le document pour les signatures
 
+### Évaluation
 
 Bien que les points soient précisément définis dans la grille d'évaluation,
 l'ancienne ordonnance les catégorisait de la sorte :
@@ -294,6 +308,8 @@ Cette section regroupe des TPI qui sont publiquement accessible sur Internet.
 
   * [Animanga](https://github.com/TanguyCavagna/Animanga)
   * [ChibreManager](https://github.com/nours33/Chibre-manager)
+  * [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website)
+  * [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI)
 
 ### Informaticiens CFC en voie exploitation et infrastructure
 

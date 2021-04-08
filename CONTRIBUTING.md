@@ -1,43 +1,43 @@
-<!-- adapté de https://raw.githubusercontent.com/hacf-fr/awesome-francophone-home-assistant/main/CONTRIBUTING.md -->
-
 # Comment contribuer à Awesome-TPI
 
-## Directement sur Github
-Cette liste est ouverte à tous. Y contribuer est simple : vous avez besoin uniquement d'un compte [GitHub](https://github.com/).
+Awesome-TPI est ouvert à tout le monde et y contribuer est simple : vous avez 
+besoin uniquement d'un compte [GitHub](https://github.com/).
 
-## En local
+Il y a plusieurs moyen d'y apporter des modifications, voici quelques exemples.
 
-## Tester le site avec Docsify
 
-<!--
-Voici un guide pas à pas pour contribuer à cette liste :
+## Directement sur Github (simple)
 
-1. Rendez vous sur le [dépôt de la liste](https://github.com/hacf-fr/awesome-francophone-home-assistant) sur GitHub
-2. Cliquez sur le fichier `README.md`: <img width="1122" alt="liste des fichiers" src="https://user-images.githubusercontent.com/93244/89622528-7997b900-d893-11ea-8b03-a7439d9df303.png">
-3. Cliquez sur le bouton `edit`: <img width="1122" alt="Editer le fichier" src="https://user-images.githubusercontent.com/93244/89622823-ec089900-d893-11ea-997f-a3a6c403977a.png">
-4. Vous pouvez éditer le contenu du fichier dans votre navigateur. Assurez vous de suivre les bonnes pratiques ci-dessus. Le fichier utilise le language GitHub Flavored Markdown avec une ([introduction pour les débutant](https://learnxinyminutes.com/docs/fr-fr/markdown-fr/) et la [spécification détaillée pour un usage expert](https://github.github.com/gfm/).
-5. Indiquez dans le formulaire de bas de page pourquoi vous proposez ces changements et cliquez sur "Propose file change": <img width="937" alt="Capture d’écran 2020-08-07 à 09 33 22" src="https://user-images.githubusercontent.com/93244/89623492-fb3c1680-d894-11ea-8d38-b98ac77ac67c.png">
-6. Envoyez votre Pull Request.
-7. Attendez une relecture et répondez aux éventuelles demandes de modification.
-8. Votre contribution est fusionnée si elle répond à toutes les exigences du projet.
+1. Rendez-vous sur le site [Awesome-TPI](https://ponsfrilus.github.io/Awesome-TPI/) et visitez la page que vous souhaitez modifier.
+2. Cliquer sur "Edit on github"  
+   ![](./img/edit_on_github00.png)  
+   pour ouvrir la source de la page directement sur github.com.
+3. En admettant que vous êtes connecté sur votre compte github, vous pouvez changer le contenu de la page en utilisant la syntaxe [MarkDown](https://guides.github.com/features/mastering-markdown/):  
+  ![](./img/edit_on_github01.png)  
+4. Assurez-vous de prévisualiser vos modifications avec l'onglet "Preview changes".
+5. Lors que vous êtes satisfait de vos modifications, utilisez le formulaire en bas de page pour les proposer :  
+  ![](./img/edit_on_github02.png)  
+   * Assurez-vous de mettre un titre xplicite ;
+   * Une description si nécessaire ;
+   * De créer une nouvelle branche pour la pull request ;
+   * Puis cliquez sur "Propose changes"
+6. Ceci va créer une Pull Request (que vous pouvez consulter sur l'[onglet idoine](https://github.com/ponsfrilus/Awesome-TPI/pulls).
+7. Lors qu'elle sera validée, vos modificatios seront accessibles à tout le monde.
 
-Merci pour votre contribution.
 
-## Pour tester la génération du site statique
+## En forkant le repo (normal)
 
-Cette Awesome list est utilisée pour générer un site web statique à l'aide de [Mkdocs](https://www.mkdocs.org/).
-Pour tester en local la génération vous avez besoin d'installer [nox](https://nox.thea.codes/en/stable/)
-au préalable.
-Ensuite nox s'occupe d'installer toutes les dépendances nécessaires
-dans un environnement virtuel:
+Bien que les modifications sur Github soient conviviales pratiques pour les
+novices, elles ne permettent pas de tester les modifications, d'éditer la
+structure du site, ou de faire évoluer le numéro de version dans le même commit.
 
-`$ nox -s docs`
-
-Cette commande a deux comportements:
-
-- En mode interactif (typiquement quand vous lancez la commande dans votre terminal),
-  elle génère le contenu du site statique
-  et lance un serveur pour le consulter à l'aide de son navigateur en consultant l'URL `http://127.0.0.1:8000/`
-- En mode non-interactif (dans un script de _Continuous Integration_ par exemple),
-  elle génère le contenu du site statique dans le répertoire `site`.
--->
+1. Forkez le repo sur votre compte GitHub
+2. Clonez votre repository
+3. Depuis le répertoire du projet, faites un `make install`
+   * Cela install les dépendances `npm` (`docsify-cli`),
+   * et lance le serveur de test sur http://localhost:3000
+4. Testez vos modifications
+5. Assurez-vous d'incérmenter le numéro de version dans le fichier `package.json`
+6. Vous pouvez automatiquement mettre à jour le fichier `CONTRIBUTORS.md` avec la commande `make CONTRIBUTORS.md`, ou l'éditer manuellement.
+7. Commitez vos modifications dans votre branches et poussez les,
+8. Depuis votre fork, créez la Pull Request.

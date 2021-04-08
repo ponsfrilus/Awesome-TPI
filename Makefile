@@ -1,10 +1,15 @@
 all: CONTRIBUTORS.md serve
 
+.PHONY: init
+init:
+	./node_modules/docsify-cli/bin/docsify init ./
+
+.PHONY: install
 install:
 	npm i --save-dev docsify-cli
-	./node_modules/docsify-cli/bin/docsify init ./
 	./node_modules/docsify-cli/bin/docsify serve ./
 
+.PHONY: serve
 serve:
 	./node_modules/docsify-cli/bin/docsify serve ./
 
