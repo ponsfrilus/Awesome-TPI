@@ -241,6 +241,8 @@ Se rendre sur http://www.tpivd.ch/index.php/10-news/9-devenir-expert pour les d�
 
 Remplir le [Protocole de la 1ère visite](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-expert/protocoles-des-visites/18-documentations-cfc-protocole-des-visites/20-protocole-de-la-1ere-visite).
 
+Exemple de mail suite à la première visite : [Mail-lancement-TPI.md](Mail-lancement-TPI.md).
+
 ## Visite intérmédiaire
 
   * Vérifier le projet, son avancement
@@ -277,6 +279,10 @@ offre la même grille de manière plus conviviale.
     - La note est calculée depuis le document PDF
     - Le chef de projet imprime le document pour les signatures
 
+
+Exemple de mail au chef de projet : [Mail-chef-de-projet.md](Mail-chef-de-projet.md).
+
+
 ### Évaluation
 
 Bien que les points soient précisément définis dans la grille d'évaluation,
@@ -302,14 +308,14 @@ Sources et détails : https://github.com/ponsfrilus/kata-manga
 
 # Exemples de TPI
 
-Cette section regroupe des TPI qui sont publiquement accessible sur Internet.
+Cette section regroupe des TPI qui sont publiquement accessibles sur Internet.
 
 ### Informaticiens CFC en voie développement d'applications
 
-  * [Animanga](https://github.com/TanguyCavagna/Animanga)
-  * [ChibreManager](https://github.com/nours33/Chibre-manager)
-  * [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website)
-  * [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI)
+  * [Animanga](https://github.com/TanguyCavagna/Animanga) ― CFPT
+  * [ChibreManager](https://github.com/nours33/Chibre-manager) ― Wavemind
+  * [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website) ― Superhuit
+  * [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI) ― ETML
 
 ### Informaticiens CFC en voie exploitation et infrastructure
 

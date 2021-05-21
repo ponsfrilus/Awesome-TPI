@@ -6,7 +6,7 @@ init:
 
 .PHONY: install
 install:
-	npm i --save-dev docsify-cli
+	npm i --no-fund --save-dev docsify-cli
 	./node_modules/docsify-cli/bin/docsify serve ./
 
 .PHONY: serve
