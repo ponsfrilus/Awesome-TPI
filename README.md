@@ -22,6 +22,7 @@ C'est un travail collaboratif, n'hésitez pas à lire la
   * [Exemple d'horaires](#exemple-dhoraires)
     * [Exemple 1](#exemple-1)
     * [Exemple 2](#exemple-2)
+    * [Exemple 3](#exemple-3)
   * [Durée du TPI](#durée-du-tpi)
   * [Macro-Planning](#macro-planning)
   * [Exemple de points techniques évalués spécifiques au projet](#exemple-de-points-techniques-évalués-spécifiques-au-projet)
@@ -120,6 +121,14 @@ La liste des ressources officielles est diponible sur [cette page](/OFFICIALS_RE
 |------------|---------------|-------|:--------:|
 | Matin      | 08:30 - 13:00 | 20min | 4h10     |
 | Après-midi | 14:00 - 18:05 | 15min | 3h50     |
+| **Total**  |               |       | **8h00** |
+
+### Exemple 3
+
+|            | Durée         | Pause | Total    |
+|------------|---------------|-------|:--------:|
+| Matin      | 09:00 - 13:00 | 20min | 3h40     |
+| Après-midi | 14:00 - 18:35 | 15min | 4h20     |
 | **Total**  |               |       | **8h00** |
 
 ## Durée du TPI
