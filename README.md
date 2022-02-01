@@ -166,16 +166,16 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     projet et son déploiement.
 
   * Le candidat s’est servi de git comme outil de gestion de version pour le 
-    code de l'application. Mesuré par 
-      a. la création de «branche par fonctionnalité» / «feature branch» dans l'historique et 
-      b. un «git log» compréhensible et lisible;
+    code de l'application. Mesuré par
+       - la création de «branche par fonctionnalité» / «feature branch» dans l'historique et 
+       - un «git log» compréhensible et lisible;
 
 ### Code
 
   * Un code exempt de sections copiées/modifiées (principe DRY : Don’t Repeat 
     Yourself) et respectant le style de programmation des langages utilisés.
 
-  * La qualité du code, mesuré en termes de:
+  * La qualité du code, mesuré en termes de :
      1. «Once and only once», le code ne comporte pas de parties répétées, 
      1. utilise le paradigme orienté objet,
      1. et présence de documentation interne au code.
@@ -204,15 +204,21 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     de documentation on de Swagger sont nécessaires pour obtenir le score 
     maximal sur ce point.
 
-
 ### UI / UX
 
-  * Le front-end est soigné, la liste des mangas paginée, triable et la 
-    possibilité de faire une recherche dans la table est présente.
+  * Le front-end est soigné, les listes paginées, triables et les 
+    possibilités de faire une recherche sont présentes.
 
   * L'interface utilisateur est soignée et réfléchie:
-     1. respect de la charte graphique («style guide»),
-     1. alignement, consistance, logique et lisibilité;
+     * la charte graphique («style guide») de l'entreprise est respectée,
+     * les alignements (textes, images, etc) sont soignés,
+     * les différentes pages sont consistantes,
+     * la logique de navigation est respectées entre les pages et 
+     * la lisibilité des différentes informations et textes est assurée.
+
+  * Le site utilise le «responsive design». Dans son rapport, le candidat
+    explique au moins trois mesures qu'il a prisent pour que le site soit
+    responsif. Au moins une capture d'écran du résultat est intégrée au rapport.
 
 ### SGBD et MCD, MLD, MPD
 
@@ -226,7 +232,7 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     son rapport.
 
   * Le candidat a favorisé l’utilisation de logiciel libres pour la réalisation 
-    de son travail.
+    de son travail et explique sa démarche dans son rapport.
 
   * Le rapport comprend une section «améliorations futures» avec des 
     propositions de fonctionnalités axées sur l’utilisateur et l’intégration de 
