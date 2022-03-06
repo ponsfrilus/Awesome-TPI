@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe des ressources utiles aux apprentis, chefs de projet et
 experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des
-informaticiens CFC.
+informaticien·ne·s CFC.
 
 C'est un travail collaboratif, n'hésitez pas à lire la
 [procédure](CONTRIBUTING.md) pour proposer vos contributions.
@@ -17,8 +17,8 @@ C'est un travail collaboratif, n'hésitez pas à lire la
   * [Modèles de rapport](#modèles-de-rapport)
 * [Pour les chefs de projets](#pour-les-chefs-de-projets)
   * [Exemple de cahier des charges](#exemple-de-cahier-des-charges)
-    * [Informaticiens CFC en voie développement d'applications](#informaticiens-cfc-en-voie-développement-dapplications)
-    * [Informaticiens CFC en voie exploitation et infrastructure](#informaticiens-cfc-en-voie-exploitation-et-infrastructure)
+    * [Informaticien·ne·s CFC en voie développement d'applications](#informaticiennes-cfc-en-voie-développement-dapplications)
+    * [Informaticien·ne·s CFC en voie exploitation et infrastructure](#informaticiennes-cfc-en-voie-exploitation-et-infrastructure)
   * [Exemple d'horaires](#exemple-dhoraires)
     * [Exemple 1](#exemple-1)
     * [Exemple 2](#exemple-2)
@@ -47,18 +47,19 @@ C'est un travail collaboratif, n'hésitez pas à lire la
 * [Préparation au TPI / TPI Blancs](#préparation-au-tpi--tpi-blancs)
   * [Kata-Manga (dev)](#kata-manga-dev)
 * [Exemples de TPI](#exemples-de-tpi)
-    * [Informaticiens CFC en voie développement d'applications](#informaticiens-cfc-en-voie-développement-dapplications)
-    * [Informaticiens CFC en voie exploitation et infrastructure](#informaticiens-cfc-en-voie-exploitation-et-infrastructure)
-    * [Informaticiens CFC en voie informatique d'entreprise](#informaticiens-cfc-en-voie-informatique-dentreprise)
+    * [Informaticien·ne·s CFC en voie développement d'applications](#informaticiennes-cfc-en-voie-développement-dapplications)
+    * [Informaticien·ne·s CFC en voie exploitation et infrastructure](#informaticiennes-cfc-en-voie-exploitation-et-infrastructure)
+    * [Informaticien·ne·s CFC en voie informatique d'entreprise](#informaticiennes-cfc-en-voie-informatique-dentreprise)
 <!-- /TOC -->
 
 # À propos
 
 En Suisse, la [formation initiale des professionnels des technologies de
-l'information et de la communication (TIC)] dans l'informatique permet, à l'issue
-de 4 années d'apprentissage, l'obtention d'un [certificat fédéral de capacité].
+l'information et de la communication (TIC)] dans l'informatique permet, à
+l'issue de 4 années d'apprentissage, l'obtention d'un [certificat fédéral de
+capacité].
 
-L'apprentissage d'informaticien est répartit en 3 orientations différentes :
+L'apprentissage d'informaticien·ne est répartit en 3 orientations différentes :
   - Développement d'applications [[⤤](https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-developpement-dapplications-a-partir-de-2021/)]
   - Exploitation et infrastructure [[⤤](https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-exploitation-et-infrastructure-a-partir-de-2021/)]
   - Informatique d'entreprise [[⤤](https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-exploitation-et-infrastructure-a-partir-de-2021/)]
@@ -97,12 +98,12 @@ La liste des ressources officielles est diponible sur [cette page](/OFFICIALS_RE
 
   * [Canevas (officiel) cahier des charges 2017-18](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-candidat/37-documentations-cfc-annexe-1-canevas-cdc-2k14/46-canevas-cahier-des-charges-2016-18)
 
-### Informaticiens CFC en voie développement d'applications
+### Informaticien·ne·s CFC en voie développement d'applications
 
   * [Sujet : Calcul d’orientation de capteurs de bruits](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-entreprise-formatrice/annexe-6-exemples-de-cdc/exemples-developpement/25-documentations-cfc-annexe-6-exemples-de-cdc/documentations-cfc-annexe-6-exemples-de-cdc-exemples-developpement/28-exemples-cdc-developpement-2)
   * [Sujet : "Skob": logiciel pour l’exploitation des libraires indépendantes (PME)](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-entreprise-formatrice/annexe-6-exemples-de-cdc/exemples-developpement/25-documentations-cfc-annexe-6-exemples-de-cdc/documentations-cfc-annexe-6-exemples-de-cdc-exemples-developpement/27-exemples-cdc-developpement)
 
-### Informaticiens CFC en voie exploitation et infrastructure
+### Informaticien·ne·s CFC en voie exploitation et infrastructure
 
   * [Sujet : Intégration de Windows Server 2012 dans l'infrastructure Wintel d’IBM](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-entreprise-formatrice/annexe-6-exemples-de-cdc/exemple-systeme/15-documentations-cfc-annexe-6-exemples-de-cdc/documentations-cfc-annexe-6-exemples-de-cdc-exemples-exemple-systeme/26-exemple-cdc-systeme)
 
@@ -360,18 +361,18 @@ Sources et détails : https://github.com/ponsfrilus/kata-manga
 
 Cette section regroupe des TPI qui sont publiquement accessibles sur Internet.
 
-### Informaticiens CFC en voie développement d'applications
+### Informaticien·ne·s CFC en voie développement d'applications
 
   * (OrFo 2014) [Animanga](https://github.com/TanguyCavagna/Animanga) ― CFPT
   * (OrFo 2014) [ChibreManager](https://github.com/nours33/Chibre-manager) ― Wavemind
   * (OrFo 2014) [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website) ― Superhuit
   * (OrFo 2014) [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI) ― ETML
 
-### Informaticiens CFC en voie exploitation et infrastructure
+### Informaticien·ne·s CFC en voie exploitation et infrastructure
 
   * [...]()
 
-### Informaticiens CFC en voie informatique d'entreprise
+### Informaticien·ne·s CFC en voie informatique d'entreprise
 
   * [...]()
 
@@ -390,7 +391,7 @@ Cette section regroupe des TPI qui sont publiquement accessibles sur Internet.
 [DRY : Don’t Repeat Yourself]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [ERD]: https://fr.wikipedia.org/wiki/Mod%C3%A8le_entit%C3%A9-association
 [Git]: https://git-scm.com/
-[informaticiens CFC en voie développement d'applications]: https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-developpement-dapplications/
+[informaticien·ne·s CFC en voie développement d'applications]: https://www.ict-berufsbildung.ch/fr/formation-professionnelle/informaticien-ne-cfc-developpement-dapplications/
 [Ordonnance du SEFRI sur la formation professionnelle initiale]: https://www.ict-berufsbildung.ch/fileadmin/user_upload/02_Francais/01_formation_initiale/PDF/Bildungsverordnung_Informatiker_in_EFZ-100f-20131017TRR.pdf
 [style de programmation]: https://fr.wikipedia.org/wiki/Style_de_programmation
 [Travail pratique individuel (TPI)]: https://www.iffp.swiss/tpi-travail-pratique-individuel

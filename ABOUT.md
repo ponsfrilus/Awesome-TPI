@@ -1,7 +1,7 @@
 # À propos
 
 Afin d'avoir une plateforme collaborative de partage de ressources concernant 
-les TPI des CFC Informaticiens, ce site a été créé en mars 2021 par 
+les TPI des CFC informaticien·ne·s, ce site a été créé en mars 2021 par 
 [Nicolas Borboën](https://github.com/ponsfrilus).
 
 Un des objectifs de ce site est de permettre d'améliorer la qualité générale des
