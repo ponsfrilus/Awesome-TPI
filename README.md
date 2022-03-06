@@ -35,6 +35,9 @@ C'est un travail collaboratif, n'hésitez pas à lire la
     * [Divers](#divers)
 * [Pour les experts](#pour-les-experts)
   * [Devenir expert](#devenir-expert)
+  * [Validation du cahier des charges](#validation-du-cahier-des-charges)
+    * [Exigences formelles](#exigences-formelles)
+    * [Travail d’examen](#travail-dexamen)
   * [Lancement du TPI](#lancement-du-tpi)
   * [Visite intérmédiaire](#visite-intérmédiaire)
   * [Entretien professionnel](#entretien-professionnel)
@@ -252,6 +255,38 @@ et suivre un cours d'expert auprès de l'[IFFP](https://www.iffp.swiss/)
 
 Se rendre sur http://www.tpivd.ch/index.php/10-news/9-devenir-expert pour les détails.
 
+## Validation du cahier des charges
+
+Le [document de validation du cahier des charges](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-expert/validation-du-cdc) propose une check liste contenant les points suivants :
+
+### Exigences formelles
+
+- [ ] Les coordonnées personnelles sont-elles complètes ?
+- [ ] Les délais, la durée et les jours de travail sont-ils connus ? 
+- [ ] La durée est comprise en 70 et 90 heures ?
+- [ ] L'énoncé du travail est-il complet et muni des signatures ?
+- [ ] Les prérequis ont-ils été définis ?
+- [ ] Les 7 critères d'évaluation spécifiques au projet ont-ils été définis ?
+- [ ] Les 7 critères sont mesurables, évaluables, réalistes et compréhensibles ?
+- [ ] Le macro-planning est intégré dans le CdC ?
+
+### Travail d’examen
+
+- [ ] Le travail se rapporte-t-il aux contenus d’une compétence opérationnelle
+  acquise par le candidat durant sa formation ? 
+- [ ] Le travail a-t-il une utilité pratique ?
+- [ ] Les exigences du travail d'examen correspondent-elles aux résultats à
+  fournir par un collaborateur "normal" ?
+- [ ] Les objectifs, les décisions à prendre et les attentes sont-ils formulés
+  de manière claire et compréhensible. Les résultats obtenus seront-ils
+  vérifiables ou mesurables ? 
+- [ ] Le travail d'examen peut-il être réalisé avec les moyens et méthodes avec
+  lesquels le candidat s’est familiarisé et qu’il a utilisés dans sa pratique
+  professionnelle durant la formation ? Le choix de la méthode laissé au 
+  candidat  est-il aussi large que possible ?
+- [ ] L'utilisation de nouveaux moyens et de nouvelles méthodes ainsi que la
+  mise au courant nécessaire sont-elles dans une mesure raisonnable ?
+
 ## Lancement du TPI
 
 Remplir le [Protocole de la 1ère visite](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-expert/protocoles-des-visites/18-documentations-cfc-protocole-des-visites/20-protocole-de-la-1ere-visite).
@@ -327,10 +362,10 @@ Cette section regroupe des TPI qui sont publiquement accessibles sur Internet.
 
 ### Informaticiens CFC en voie développement d'applications
 
-  * [Animanga](https://github.com/TanguyCavagna/Animanga) ― CFPT
-  * [ChibreManager](https://github.com/nours33/Chibre-manager) ― Wavemind
-  * [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website) ― Superhuit
-  * [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI) ― ETML
+  * (OrFo 2014) [Animanga](https://github.com/TanguyCavagna/Animanga) ― CFPT
+  * (OrFo 2014) [ChibreManager](https://github.com/nours33/Chibre-manager) ― Wavemind
+  * (OrFo 2014) [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website) ― Superhuit
+  * (OrFo 2014) [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI) ― ETML
 
 ### Informaticiens CFC en voie exploitation et infrastructure
 
