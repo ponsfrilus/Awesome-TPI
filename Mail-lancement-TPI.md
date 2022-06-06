@@ -25,10 +25,11 @@ envoyer ces quelques informations.
   * Dans la mesure du possible, votre documentation devrait évoluer chaque jour.
   * Un [modèle de rapport] est disponible à titre informatif sur le site tpivd.ch 
     mais vous êtes libre d’utiliser votre propre modèle.
-  * Il n’y a pas de problème à demander de l’aide, mais vous devez le spécifier 
-    dans votre journal de travail.
+  * Il n’y a pas de problème à demander de l’aide ou faire des heures
+    supplémentaires, mais vous devez le spécifier dans votre journal de travail.
   * Rappelez-vous des 7 critères d’évaluation (cf. [critères d’évaluation] 
-    A14-A20).
+    A14-A20) : ils représentent un tiers de la partie d’évaluation A et par
+    conséquent, y apporter un soin particulier.
   * N’oubliez pas d’inclure le résumé du rapport du TPI / version succincte de 
     la doc (cf. [critères d’évaluation] B1) à votre rapport.
 
@@ -46,16 +47,19 @@ envoyer ces quelques informations.
   * A la fin du délai imparti pour la réalisation du TPI, vous transmettez par 
     courrier électronique le dossier de projet aux deux experts et au chef de 
     projet.
-  * En parallèle, une copie papier du rapport doit être fournie en trois 
-    exemplaires : une pour votre chef de projet et une pour chacun des experts.
-    Merci de vous enquérir des addresses postales auprès des intéressés.
+  * En parallèle, une copie papier du rapport doit être fournie : à vous de 
+    demander aux experts et à votre chef de projet s’ils en veulent une. Vous
+    devez aussi vous enquérir des adresses postales auprès des intéressés.
+  * L’impression peut se faire en dehors du temps impartis pour le TPI, dans les
+    heures suivantes le rendu.
   * Cette dernière doit être en tout point identique à la version électronique.
   * L’envoi papier se fait en courrier A.
+
 
 **Évaluation :**
 
   * Votre TPI sera évalué selon les critères d’évaluation pour la feuille 
-    d’évaluation Ordonnance 2014. Vous pouvez la consulter ici.
+    d’évaluation Ordonnance 2014. Vous pouvez la consulter [ici](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-candidat/40-annexe-5-evalutation/49-evalution-2017-18).
   * Nous attendons de votre part l’organisation de cet entretien, par exemple 
     avec un doodle.
   * Après la fin du TPI, vous préparerez l’entretien professionnel (présentation
