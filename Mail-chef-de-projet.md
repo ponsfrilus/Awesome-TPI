@@ -2,11 +2,11 @@
 
 Bonjour,
 
-La date de l’entretien professionnel de votre apprenti se rapprochant, 
+La date de l’entretien professionnel de votre apprenti se rapprochant,
 nous souhaiterions attirer votre attention sur les points suivants :
 
   * Votre présence à sa présentation est selon ses 
-    envies ; même si la plupart du temps le chef de projet est présent, le 
+    envies ; même si la plupart du temps le chef de projet est présent, le
     candidat a le choix de faire sa présentation aux experts uniquement.
 
   * Si vous êtes présent, c'est en simple spectateur et vous ne pouvez y prendre
@@ -21,8 +21,8 @@ nous souhaiterions attirer votre attention sur les points suivants :
     le PDF interactif et les détails des critères d'évaluation.
 
   * En tant que chef de projet, les parties «A» et «B» de la feuille
-    d'évaluation <u>sont à remplir par vos soins</u> — nous vous serions donc reconnaissant 
-    de **préremplir** ces parties **avant** la présentation .
+    d'évaluation <u>sont à remplir par vos soins</u> — nous vous serions donc
+    reconnaissant de **préremplir** ces parties **avant** la présentation.
 
   * En tant qu'experts, nous remplirons la partie «C» qui concerne la
     présentation et les questions, sur le même document.
@@ -33,6 +33,6 @@ nous souhaiterions attirer votre attention sur les points suivants :
 
 Nous sommes bien sûr à disposition pour tout complément d'informations.
 
-En nous réjouissant d'avance d'assister à la présentation,
+En nous réjouissant d'avance d'assister à la présentation,  
 Meilleures salutations,  
 Les experts de votre candidat
