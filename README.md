@@ -1,3 +1,5 @@
+<center><img src="./img/1f95d.svg" width="15%"></center>
+
 # Awesome Travail Pratique Individuel (TPI) &nbsp; [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- {docsify-ignore} -->
 
 Ce dépôt regroupe des ressources utiles aux apprentis, chefs de projet et
@@ -6,6 +8,7 @@ informaticien·ne·s CFC.
 
 C'est un travail collaboratif, n'hésitez pas à lire la
 [procédure](CONTRIBUTING.md) pour proposer vos contributions.
+
 
 # Table des matières <!-- {docsify-ignore} -->
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:2 title:0 charForUnorderedList:* -->

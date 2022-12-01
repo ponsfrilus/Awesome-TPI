@@ -1,3 +1,5 @@
+![](./img/1f95d.png)
+
 # Awesome TPI<br>![](https://awesome.re/badge.svg)
 
 Ce dépôt regroupe des ressources utiles aux apprentis, chefs de projet et
