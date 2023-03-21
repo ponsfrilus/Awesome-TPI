@@ -183,6 +183,16 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
      1. «Once and only once», le code ne comporte pas de parties répétées, 
      1. utilise le paradigme orienté objet,
      1. et présence de documentation interne au code.
+    
+  * Les conventions de l’entreprise sont respectées
+    1. Entêtes
+    1. Nomenclature
+    1. Choix des librairies et versions
+    
+  * Choix et respect des licenses
+    1. Choix pertinent de la license du produit (section dédiée dans le rapport)
+    1. Liste déclarée des librairies sous license (par exemple dans les contributions)
+    1. Code mis à disposition pour les licenses GPL
 
 ### Instructions et reproductibilité
 
