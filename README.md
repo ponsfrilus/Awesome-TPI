@@ -192,10 +192,10 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     1. Nomenclature
     1. Choix des librairies et versions
     
-  * Choix et respect des licenses
-    1. Choix pertinent de la license du produit (section dédiée dans le rapport)
-    1. Liste déclarée des librairies sous license (par exemple dans les contributions)
-    1. Code mis à disposition pour les licenses GPL
+  * Choix et respect des licences
+    1. Choix pertinent de la licence du produit (section dédiée dans le rapport)
+    1. Liste déclarée des librairies sous licence (par exemple dans les contributions)
+    1. Code mis à disposition pour les licences GPL
 
 ### Instructions et reproductibilité
 
