@@ -74,7 +74,7 @@ En restant à disposition pour toutes questions, je vous souhaite bonne chance !
 Meilleures salutations,  
 Votre expert
 
-[ordonnance du SEFRI sur la formation professionnelle initiale d’informaticienne / informaticien avec certificat fédéral de capacité (CFC)]: https://www.ict-berufsbildung.ch/fileadmin/user_upload/02_Francais/01_formation_initiale/PDF/Bildungsverordnung_Informatiker_in_EFZ-100f-20131017TRR.pdf
+[ordonnance du SEFRI sur la formation professionnelle initiale d’informaticienne / informaticien avec certificat fédéral de capacité (CFC)]: https://www.ict-berufsbildung.ch/resources/Bildungsverordnung_Informatik-EFZ_BiVo-2014_FR3.pdf
 [les directives relatives aux travaux pratiques individuels (TPI) dans le cadre de l’examen final de la procédure de  qualification de la formation professionnelle initiale]: https://www.sbfi.admin.ch/dam/sbfi/fr/dokumente/merkblatt/wegleitung_ueberindividuellepraktischearbeitenipaimrahmenderabsc.pdf.download.pdf/directives_relativesauxtravauxpratiquesindividuelstpidanslecadre.pdf
 [déroulement du TPI]: http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-expert/annexe-2-deroulement/38-documentations-cfc-annexe-2-deroulement-2k14/47-deroulement-tpi-2017-18
 [modèle de rapport]: http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-candidat/39-documentations-cfc-annexe-3-canevas-dossier-de-projet-2k14/48-canevas-dossier-de-projet-2017-18
