@@ -22,10 +22,11 @@ C'est un travail collaboratif, n'hésitez pas à lire la
   * [Exemple de cahier des charges](#exemple-de-cahier-des-charges)
     * [Informaticien·ne·s CFC en voie développement d'applications](#informaticiennes-cfc-en-voie-développement-dapplications)
     * [Informaticien·ne·s CFC en voie exploitation et infrastructure](#informaticiennes-cfc-en-voie-exploitation-et-infrastructure)
-  * [Exemple d'horaires](#exemple-dhoraires)
+  * [Exemples d'horaires](#exemples-dhoraires)
     * [Exemple 1](#exemple-1)
     * [Exemple 2](#exemple-2)
     * [Exemple 3](#exemple-3)
+    * [Exemple 4](#exemple-4)
   * [Durée du TPI](#durée-du-tpi)
   * [Macro-Planning](#macro-planning)
   * [Exemple de points techniques évalués spécifiques au projet](#exemple-de-points-techniques-évalués-spécifiques-au-projet)
@@ -52,7 +53,6 @@ C'est un travail collaboratif, n'hésitez pas à lire la
 * [Exemples de TPI](#exemples-de-tpi)
     * [Informaticien·ne·s CFC en voie développement d'applications](#informaticiennes-cfc-en-voie-développement-dapplications)
     * [Informaticien·ne·s CFC en voie exploitation et infrastructure](#informaticiennes-cfc-en-voie-exploitation-et-infrastructure)
-    * [Informaticien·ne·s CFC en voie informatique d'entreprise](#informaticiennes-cfc-en-voie-informatique-dentreprise)
 <!-- /TOC -->
 
 # À propos
@@ -110,7 +110,7 @@ La liste des ressources officielles est diponible sur [cette page](/OFFICIALS_RE
 
   * [Sujet : Intégration de Windows Server 2012 dans l'infrastructure Wintel d’IBM](http://www.tpivd.ch/index.php/documentation-tpi-cfc-ordo-2014/pour-entreprise-formatrice/annexe-6-exemples-de-cdc/exemple-systeme/15-documentations-cfc-annexe-6-exemples-de-cdc/documentations-cfc-annexe-6-exemples-de-cdc-exemples-exemple-systeme/26-exemple-cdc-systeme)
 
-## Exemple d'horaires
+## Exemples d'horaires
 
 > Pour chaque matinéele candidat à le droit à 20min de pause. Pour chaque après-midi, le candidat à le droit à 15min de pause
 
@@ -118,11 +118,22 @@ La liste des ressources officielles est diponible sur [cette page](/OFFICIALS_RE
 
 |            | Durée         | Pause | Total    |
 |------------|---------------|-------|:--------:|
+| Matin      | 07:30 - 12:30 | 20min | 4h40     |
+| Après-midi | 13:30 - 16:30 | 15min | 2h45     |
+| **Total**  |               |       | **7h25** |
+
+Note : cet exemple permet d'arriver exactement à 89 heures pour 12 jours de TPI.
+(12 fois 445 minutes par jours est égal à 5340 minutes, soit 89 heures.)
+
+### Exemple 2
+
+|            | Durée         | Pause | Total    |
+|------------|---------------|-------|:--------:|
 | Matin      | 08:00 - 12:00 | 20min | 3h40     |
 | Après-midi | 13:00 - 17:35 | 15min | 4h20     |
 | **Total**  |               |       | **8h00** |
 
-### Exemple 2
+### Exemple 3
 
 |            | Durée         | Pause | Total    |
 |------------|---------------|-------|:--------:|
@@ -130,7 +141,7 @@ La liste des ressources officielles est diponible sur [cette page](/OFFICIALS_RE
 | Après-midi | 14:00 - 18:05 | 15min | 3h50     |
 | **Total**  |               |       | **8h00** |
 
-### Exemple 3
+### Exemple 4
 
 |            | Durée         | Pause | Total    |
 |------------|---------------|-------|:--------:|
@@ -172,10 +183,10 @@ d'informaticienne / informaticien avec certificat fédéral de capacité
     création de branches de fonctionnalités), fichier `README.md` présentant le 
     projet et son déploiement.
 
-  * Le candidat s’est servi de git comme outil de gestion de version pour le 
+  * Le candidat s’est servi de Git comme outil de gestion de version pour le 
     code de l'application. Mesuré par
        - la création de «branche par fonctionnalité» / «feature branch» dans l'historique et 
-       - un «git log» compréhensible et lisible;
+       - un « git log » compréhensible et lisible;
 
 ### Code
 
@@ -380,15 +391,13 @@ Cette section regroupe des TPI qui sont publiquement accessibles sur Internet.
   * (OrFo 2014) [ChibreManager](https://github.com/nours33/Chibre-manager) ― Wavemind
   * (OrFo 2014) [PizzaPasta](https://gitlab.com/benoitdapoigny/tpi-pizza-pasta-website) ― Superhuit
   * (OrFo 2014) [Planification hebdomadaire d'ateliers et de travailleurs](https://github.com/SachaGrenier/TPI) ― ETML
+  * (OrFo 2014) [Inventaire habits](https://github.com/KillermyB/TPI_inventaireHabits_BoukhlifaK) ― ETML
+  * (OrFo 2014)(Genève) [MonoBattle](https://github.com/Nelson-Jnrnd/MonoBattle/) — CFPT
+  * (OrFo 2014)(Sion) [Gestionnaire de licences à l'utilisation](https://github.com/zelyvanna/TPI-CFC-PapLicenceManager/) — ProActive
 
 ### Informaticien·ne·s CFC en voie exploitation et infrastructure
 
-  * [...]()
-
-### Informaticien·ne·s CFC en voie informatique d'entreprise
-
-  * [...]()
-
+  * (OrFo 2014) [Raspberry Pi: Utilisation à domicile et services avancés](https://github.com/Roccom14/HOMEpi/) — EPFL
 
 
 [REFERENCES]: ------------------------------------------------------------------
