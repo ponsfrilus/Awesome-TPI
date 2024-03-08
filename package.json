@@ -9,6 +9,6 @@
   "author": "Nicolas Borboën <ponsfrilus@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^4.4.4"
   }
 }
